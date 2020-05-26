@@ -8,7 +8,7 @@ With this script you can add all free courses available on udemy to your account
 - Python (2 or 3)
 - Python `pip`
 - Python module `requests`
-- Python module `termcolor`
+- Python module `colorama`
 
 ## ***Module Installation***
 
@@ -16,6 +16,6 @@ With this script you can add all free courses available on udemy to your account
 
 ## ***Usage***
 
-***Download a course***
+***Add all/specific course***
 
-    python udemy.py
+    python udemy.py -c cookie_file.txt

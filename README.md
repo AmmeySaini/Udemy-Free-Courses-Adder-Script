@@ -32,5 +32,5 @@ With this script you can add all free courses available on udemy to your account
  
 <img src="images/image2.png" width=70% height=50%></img>
 
-- Now create a file named cookie.txt and add access_token, name and ud_cache_user in format **access_token||your name||ud_cache_user**
+- Now create a file named cookie.txt and add access_token, name(any name preffered) and ud_cache_user in format **access_token||your name||ud_cache_user**
 - Now run script using above command in **Usage**

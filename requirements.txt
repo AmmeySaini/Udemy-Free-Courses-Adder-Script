@@ -1,2 +1,4 @@
 requests
 colorama
+argparse
+browser_cookie3
